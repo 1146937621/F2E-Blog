@@ -17,4 +17,3 @@
 <li><a href="http://ghosertblog.github.io/mdeditor/" target="_blank">Cmd - 在线 Markdown 编辑阅读器</a></li>
 </ul>
 <p>好了，开始你的markdown之旅吧！</p>
-<p>爱打卡-100days-第47天-0111</p>
